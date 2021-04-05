@@ -1,0 +1,5 @@
+# Verificador-de-CPF
+
+Pequeno programa que verifica se um determinado CPF é válido ou não, foi utilizado a linguagem ruby e a gem 'cpf_cnpj'
+O programa pede a entrada de um CPF e o especifica se é válido ou não.
+
